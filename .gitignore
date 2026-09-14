@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+*.translation
+
+# Export artifacts (built separately for deployment)
+/build/
+/web/
+
+# macOS
+.DS_Store
